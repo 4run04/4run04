@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4run04
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @4run04 (S.Arun Prakash)
+  ->ML- Enthusiast.
+  ->Interested in building ML-related projects.
  
