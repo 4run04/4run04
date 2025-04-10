@@ -33,11 +33,9 @@ Here are a few of my favorite repositories:
 
 ## 📊 GitHub Stats
 
-![Arun's GitHub Stats]\([https://github-readme-stats.vercel.app/api?username=4run04&show\_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=4run04\&show_icons=true\&theme=radical))
-
-![Top Langs]\([https://github-readme-stats.vercel.app/api/top-langs/?username=4run04&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=4run04\&layout=compact\&theme=tokyonight))
-
-![GitHub Streak]\([https://streak-stats.demolab.com?user=4run04&theme=dark&hide\_border=false](https://streak-stats.demolab.com?user=4run04\&theme=dark\&hide_border=false))
+![](https://github-readme-streak-stats.herokuapp.com/?user=4run04&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=4run04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4run04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
